@@ -2,10 +2,6 @@ Reconstructs camera positions and a sparse point cloud from a set of photos take
 
 ![The interface after a run](docs/screenshot.png)
 
-```
-run
-```
-
 Python 3.11+, Node 18+.
 
 ## Output
