@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Status:** This project is inactive and no longer updated.
+
 Reconstructs camera positions and a sparse point cloud from a set of photos taken around an object. 
 
 ![The interface after a run](docs/screenshot.png)
